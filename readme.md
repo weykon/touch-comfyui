@@ -7,3 +7,5 @@ So then I classify all keywords in these everything in here.
 
 the nb I run on colab but had not ready on completion with custom_node download list.
 [ipynb](“comfyui_colab_with_manager_ipynb”的副本.ipynb)
+
+job iter
