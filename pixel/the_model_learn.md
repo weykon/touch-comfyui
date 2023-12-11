@@ -15,3 +15,8 @@ for Fast Mode version, the cfg scale need to be 1 or 2 and minimum step is 4 or 
 ```
 
 [from](https://civitai.com/models/195730?modelVersionId=220049)
+
+
+
+Civitai model usage instruction
+https://github.com/civitai/civitai/wiki/How-to-use-models#fine-tuned-model-checkpoints-dreambooth-models
