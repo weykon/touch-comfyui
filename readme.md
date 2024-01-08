@@ -9,14 +9,14 @@ the nb I run on colab but had not ready on completion with custom_node download 
 [ipynb](“comfyui_colab_with_manager_ipynb”的副本.ipynb)
 
 ## basic: 
-Checkout: 
-Encode & Decode on text and imgae: 
-CLIP:
-Sampler: 
-  Sampler Type: 
-Step: (for different model)
-CFG: about effect on text prompt
-batch size: loaded model and all input then run multiple time generation
+Checkout:   
+Encode & Decode on text and imgae:   
+CLIP:  
+Sampler:   
+  Sampler Type:   
+Step: (for different model)  
+CFG: about effect on text prompt  
+batch size: loaded model and all input then run multiple time generation  
 
 
 
