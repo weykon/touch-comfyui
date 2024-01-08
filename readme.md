@@ -8,4 +8,20 @@ So then I classify all keywords in these everything in here.
 the nb I run on colab but had not ready on completion with custom_node download list.
 [ipynb](“comfyui_colab_with_manager_ipynb”的副本.ipynb)
 
-job iter
+## basic: 
+Checkout: 
+Encode & Decode on text and imgae: 
+CLIP:
+Sampler: 
+  Sampler Type: 
+Step: (for different model)
+CFG: about effect on text prompt
+batch size: loaded model and all input then run multiple time generation
+
+
+
+## custom nodes: 
+
+ControlNet: 
+job iter:
+
